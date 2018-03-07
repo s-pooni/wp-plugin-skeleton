@@ -3,6 +3,16 @@
     "description": "This is a basic file/ folder structure for wordpress plugins.",
     "type": "project",
     "license": "MIT",
+	"authors" : [{
+			"name" : "Ranjeet Pooni",
+			"email" : "dev.spooni@gmail.com",
+			"homepage" : "http://at3labs.ca",
+			"role" : "Developer"
+		}
+	],
+	"require" : {
+		"php" : ">=5.3.0"
+	},
     "minimum-stability": "dev",
     "require": {}
 }
