@@ -1,0 +1,8 @@
+{
+    "name": "at3l/wp-plugin-skeleton",
+    "description": "This is a basic file/ folder structure for wordpress plugins.",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
